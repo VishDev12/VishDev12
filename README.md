@@ -1,6 +1,6 @@
 ## Hello Stranger! 👋
 
-I love all things open-source and Kubernetes! Also, gotta love AI/ML, can't live without the 🤖 now can we.
+I love all things open-source, MLOps, and Kubernetes!
 
 ### Some of my Blogs
 
